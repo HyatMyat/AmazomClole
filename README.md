@@ -1,2 +1,1 @@
-# Amazom1
-# 1
+# Amazom
